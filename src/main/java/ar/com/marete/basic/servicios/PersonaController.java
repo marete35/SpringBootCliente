@@ -1,4 +1,4 @@
-package ar.com.marete.Basic.servicios;
+package ar.com.marete.basic.servicios;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
