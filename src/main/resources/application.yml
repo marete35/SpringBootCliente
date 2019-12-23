@@ -1,0 +1,8 @@
+spring:
+   application:
+      name: SpringBootCliente
+   thymeleaf:
+      cache:false
+      mode:HTML
+server:
+   port: 8081
